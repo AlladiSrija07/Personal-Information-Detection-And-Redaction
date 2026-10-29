@@ -31,3 +31,6 @@ This project is designed to detect sensitive personal information in PDF documen
 ### Objective
 
 The main objective is to improve document privacy by helping users identify and remove sensitive personal information before sharing PDF files. The project demonstrates the practical application of text extraction, pattern matching, web development, and privacy protection.
+
+### Applicable:
+The PII Detection and Redaction project is applicable in banking, healthcare, education, government offices, HR departments, legal firms, and real estate companies. These organizations handle confidential documents containing personal information such as Aadhaar numbers, PAN numbers, phone numbers, and email addresses. My project helps detect this sensitive information in PDF files and redact selected details before sharing the documents. This helps protect individuals' privacy, reduce the risk of data leakage, and support secure document sharing.
